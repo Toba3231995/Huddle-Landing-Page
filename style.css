@@ -86,6 +86,7 @@ nav {
 }
  
 .small-box {
+    background-color: #fff;
     display: inline-block;
     margin: auto;
     margin-bottom: -50%;
